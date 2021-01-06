@@ -1,7 +1,7 @@
 require_relative 'lib/hello_rubymine/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "hello_rubymine"
+  spec.name          = "hello_rubymine_AStalter"
   spec.version       = HelloRubymine::VERSION
   spec.authors       = ["Alex_Stalter"]
   spec.email         = ["astalter@bridgew.edu"]
